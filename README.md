@@ -1,4 +1,8 @@
-# Ox Doorlock
+# ox_doorlock redesign
+
+A simple and unique redesign of ox_doorlock
+
+# Screenshots
 
 Door management resource, with compatibility for [ox_core](https://github.com/overextended/ox_core), [es_extended](https://github.com/esx-framework/esx_core), [nd_core](https://github.com/ND-Framework/ND_Core), and [qbox](https://github.com/Qbox-project/qbx_core).  
 Successor to nui_doorlock with less scuff and more stuff.
